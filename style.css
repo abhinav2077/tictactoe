@@ -64,6 +64,7 @@ h1{
     padding-right: 30px;
     border-radius: 10px;
     font-size: 20px;
+    color: rgb(0,0,0);
     background-color: orange;
     box-shadow: 0 0 10px rgb(88, 88, 88);
     border-style: none;
